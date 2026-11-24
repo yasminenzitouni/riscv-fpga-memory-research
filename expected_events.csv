@@ -1,0 +1,7 @@
+sample,slot,kind,address,data,meaning
+1,slot0,AW,0xC2000000,,slot0:writer write address accepted
+2,slot0,W,,0x0001,slot0:writer write data accepted
+3,slot0,B,,,slot0:writer write response accepted
+4,slot0,TRIGGER,,,ILA trigger point
+4,slot1,AR,0xC2000000,,slot1:reader read address accepted
+6,slot1,R,,0x0000,slot1:reader read data accepted

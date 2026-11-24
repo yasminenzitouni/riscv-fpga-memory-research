@@ -1,0 +1,9 @@
+Sample in Buffer,capture/net_slot_0_axi_awaddr,capture/net_slot_0_axi_awvalid,capture/net_slot_0_axi_awready,capture/net_slot_0_axi_wdata,capture/net_slot_0_axi_wvalid,capture/net_slot_0_axi_wready,capture/net_slot_0_axi_bvalid,capture/net_slot_0_axi_bready,capture/net_slot_0_axi_araddr,capture/net_slot_0_axi_arvalid,capture/net_slot_0_axi_arready,capture/net_slot_0_axi_rdata,capture/net_slot_0_axi_rvalid,capture/net_slot_0_axi_rready,capture/net_slot_1_axi_awaddr,capture/net_slot_1_axi_awvalid,capture/net_slot_1_axi_awready,capture/net_slot_1_axi_wdata,capture/net_slot_1_axi_wvalid,capture/net_slot_1_axi_wready,capture/net_slot_1_axi_bvalid,capture/net_slot_1_axi_bready,capture/net_slot_1_axi_araddr,capture/net_slot_1_axi_arvalid,capture/net_slot_1_axi_arready,capture/net_slot_1_axi_rdata,capture/net_slot_1_axi_rvalid,capture/net_slot_1_axi_rready,TRIGGER
+Radix - UNSIGNED,HEX,HEX,HEX,HEX,HEX,HEX,HEX,HEX,HEX,HEX,HEX,HEX,HEX,HEX,HEX,HEX,HEX,HEX,HEX,HEX,HEX,HEX,HEX,HEX,HEX,HEX,HEX,HEX,HEX
+0,C2000000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,C2000000,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,C2000000,1,1,0,0,0,1
+5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
